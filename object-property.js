@@ -11,3 +11,5 @@ const biggerOne = students.find(x => x.id > 40);
 console.log(fortyPlus);
 console.log(studentName);
 console.log(biggerOne);
+console.log(x);
+var x;
