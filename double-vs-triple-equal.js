@@ -8,4 +8,4 @@ else{
 }
 
 //double equal never check the variable type whereas triple equal will check the type
-//Double Equals ( == ) checks for value equality only. It inherently does type coercion. This means that before checking the values, it converts the types of the variables to match each other. On the other hand, Triple Equals ( === ) does not perform type coercion.
+//Double Equals ( == ) checks for value equality only. It inherently does type coercion. That means  before checking the values, it converts the types of the variables to match each other. On the other hand, Triple Equals ( === ) does not perform type coercion.
